@@ -64,16 +64,16 @@ Built with Python, ready to run on Windows, macOS, and Linux (though optimized f
 To clone and run this application, you'll need Git and Python installed on your computer. From your command line:
 
 # Clone this repository
-$ git clone [https://github.com/YOUR_USERNAME/pc-care.git](https://github.com/YOUR_USERNAME/pc-care.git)
+git clone [https://github.com/YOUR_USERNAME/pc-care.git](https://github.com/YOUR_USERNAME/pc-care.git)
 
 # Go into the repository
-$ cd pc-care
+cd pc-care
 
 # Install dependencies
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 
 # Run the app
-$ python pc_care.py
+python pc_care.py
 
 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
