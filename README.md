@@ -1,11 +1,18 @@
 <div align="center">
-<br>
+<pre>
+____  ____    ____   _    ____   ____
+/  _ /  \  /  \ / \  /  _ \ / __
+
+| | ||  /|  | /  | | |  | / | | / |
+| |/||    /  | _| | |/| _/| | _/|
+_/_/_\  _/ _/_/ ___/
+</pre>
 <h1>PC CARE</h1>
 <h3>(Computer Assistance & Repair Engine)</h3>
 <br>
 </div>
 
-<h4 align="center">A modern, open-source command-line utility for gamers and power users to clean, repair, and optimize their Windows PC.</h4>
+<h4 align="center">A modern, open-source utility for gamers and power users to clean, repair, and optimize their Windows PC.</h4>
 
 <p align="center">
 <!-- BADGES -->
@@ -36,17 +43,29 @@ You can add a screenshot or GIF of the application in action here to showcase it
 ![PC CARE Demo](./docs/demo.gif)
 
 ✨ Key Features
-Live Cleaning & Repair: Instantly run powerful cleaning and repair commands directly from a simple menu.
+Live Cleaning & Repair:
 
-Gamer Focused: Includes specific, community-approved fixes for popular games to resolve common issues.
+Instantly run powerful cleaning and repair commands directly from a simple menu.
 
-Ultimate Performance Mode: Activates the hidden Windows power plan for maximum performance in demanding applications.
+Gamer Focused:
 
-System Information: Quickly generates a detailed report of your hardware (CPU, RAM, GPU, OS).
+Includes specific, community-approved fixes for popular games to resolve common issues.
 
-Safe & Transparent: No hidden processes. The tool only performs actions you select, with confirmations for major changes.
+Ultimate Performance Mode:
 
-Cross platform: Built with Python, ready to run on Windows, macOS, and Linux (though optimized for Windows).
+Activates the hidden Windows power plan for maximum performance in demanding applications.
+
+System Information:
+
+Quickly generates a detailed report of your hardware (CPU, RAM, GPU, OS).
+
+Safe & Transparent:
+
+No hidden processes. The tool only performs actions you select, with confirmations for major changes.
+
+Cross platform:
+
+Built with Python, ready to run on Windows, macOS, and Linux (though optimized for Windows).
 
 🚀 How To Use
 To clone and run this application, you'll need Git and Python installed on your computer. From your command line:
@@ -67,6 +86,18 @@ python pc_care.py
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 Please see CONTRIBUTING.md for our guidelines on how to get involved.
+
+🛠️ Built With
+This software uses the following open source packages:
+
+Python
+
+Colorama
+
+psutil
+
+💖 Show Your Support
+If you like this project and think it has helped you in any way, please give it a ⭐️ on GitHub! This helps the project grow and reach more users.
 
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
