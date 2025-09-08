@@ -10,7 +10,7 @@
 
 <!-- GITHUB BADGES -->
 
-<p align="center"> <a href="https://www.python.org/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/python-3.7%2B-blue.svg" alt="Python Version"> </a> <a href="https://www.google.com/search?q=https://github.com/YOUR_USERNAME/pc-care/blob/main/LICENSE"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"> </a> <img src="https://www.google.com/search?q=https://img.shields.io/maintenance/yes/2025" alt="Maintenance"> <a href="https://www.google.com/search?q=https://github.com/YOUR_USERNAME/pc-care/issues"> <img src="https://www.google.com/search?q=https://img.shields.io/github/issues/YOUR_USERNAME/pc-care" alt="Issues"> </a> </p>
+<p align="center"> <a href="https://www.python.org/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/python-3.7%2B-blue.svg" alt="Python Version"> </a> <a href="https://www.google.com/search?q=https://github.com/thatguyblaze/pc-care/blob/main/LICENSE"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"> </a> <img src="https://www.google.com/search?q=https://img.shields.io/maintenance/yes/2025" alt="Maintenance"> <a href="https://www.google.com/search?q=https://github.com/thatguyblaze/pc-care/issues"> <img src="https://www.google.com/search?q=https://img.shields.io/github/issues/thatguyblaze/pc-care" alt="Issues"> </a> </p>
 
 </div>
 
@@ -55,7 +55,7 @@ Windows 10 or 11
 Installation
 Clone the repository:
 
-git clone [https://github.com/YOUR_USERNAME/pc-care.git](https://github.com/YOUR_USERNAME/pc-care.git)
+git clone [https://github.com/thatguyblaze/pc-care.git](https://github.com/thatguyblaze/pc-care.git)
 
 
 Navigate to the project directory:
