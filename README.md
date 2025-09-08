@@ -4,7 +4,8 @@
  |  _ \ / ___|  / ___|  / \  |  _ \| ____|
  | |_) | |     | |     / _ \ | |_) |  _|  
  |  __/| |___  | |___ / ___ \|  _ <| |___ 
- |_|    \____|  \____/_/   \_\_| \_\_____|                                          
+ |_|    \____|  \____/_/   \_\_| \_\_____|
+                                                                                  
 </pre>
   <h1>PC CARE</h1>
   <h3>(Computer Assistance & Repair Engine)</h3>
@@ -17,13 +18,13 @@
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-3.7+-blue.svg" alt="Python Version">
   </a>
-  <a href="https://github.com/YOUR_USERNAME/pc-care/blob/main/LICENSE">
+  <a href="https://github.com/thatguyblaze/pc-care/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
   </a>
-  <a href="https://github.com/YOUR_USERNAME/pc-care/issues">
+  <a href="https://github.com/thatguyblaze/pc-care/issues">
     <img src="https://img.shields.io/github/issues/YOUR_USERNAME/pc-care" alt="Open Issues">
   </a>
-  <a href="https://github.com/YOUR_USERNAME/pc-care/graphs/contributors">
+  <a href="https://github.com/thatguyblaze/pc-care/graphs/contributors">
     <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contributions Welcome">
   </a>
 </p>
