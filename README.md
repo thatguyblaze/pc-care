@@ -55,7 +55,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [P
 
 ```bash
 # Clone this repository
-git clone [https://github.com/YOUR_USERNAME/pc-care.git](https://github.com/YOUR_USERNAME/pc-care.git)
+git clone [https://github.com/thatguyblaze/pc-care.git](https://github.com/thatguyblaze/pc-care.git)
 
 # Go into the repository
 cd pc-care
