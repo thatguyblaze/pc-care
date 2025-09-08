@@ -36,29 +36,17 @@ You can add a screenshot or GIF of the application in action here to showcase it
 ![PC CARE Demo](./docs/demo.gif)
 
 ✨ Key Features
-Live Cleaning & Repair
+Live Cleaning & Repair: Instantly run powerful cleaning and repair commands directly from a simple menu.
 
-Instantly run powerful cleaning and repair commands directly from a simple menu.
+Gamer Focused: Includes specific, community-approved fixes for popular games to resolve common issues.
 
-Gamer Focused
+Ultimate Performance Mode: Activates the hidden Windows power plan for maximum performance in demanding applications.
 
-Includes specific, community-approved fixes for popular games to resolve common issues.
+System Information: Quickly generates a detailed report of your hardware (CPU, RAM, GPU, OS).
 
-Ultimate Performance Mode
+Safe & Transparent: No hidden processes. The tool only performs actions you select, with confirmations for major changes.
 
-Activates the hidden Windows power plan for maximum performance in demanding applications.
-
-System Information
-
-Quickly generates a detailed report of your hardware (CPU, RAM, GPU, OS).
-
-Safe & Transparent
-
-No hidden processes. The tool only performs actions you select, with confirmations for major changes.
-
-Cross platform
-
-Built with Python, ready to run on Windows, macOS, and Linux (though optimized for Windows).
+Cross platform: Built with Python, ready to run on Windows, macOS, and Linux (though optimized for Windows).
 
 🚀 How To Use
 To clone and run this application, you'll need Git and Python installed on your computer. From your command line:
