@@ -1,77 +1,79 @@
 <div align="center">
-
-<br/>
-
-<h1 align="center">PC CARE</h1> <h3 align="center">(Computer Assistance & Repair Engine)</h3>
-
-<br/>
-
-<p align="center"> A modern, open-source command-line utility for gamers and power users to clean, repair, and optimize their Windows PC. </p>
-
-<!-- GITHUB BADGES -->
-
-<p align="center"> <a href="https://www.python.org/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/python-3.7%2B-blue.svg" alt="Python Version"> </a> <a href="https://www.google.com/search?q=https://github.com/thatguyblaze/pc-care/blob/main/LICENSE"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"> </a> <img src="https://www.google.com/search?q=https://img.shields.io/maintenance/yes/2025" alt="Maintenance"> <a href="https://www.google.com/search?q=https://github.com/thatguyblaze/pc-care/issues"> <img src="https://www.google.com/search?q=https://img.shields.io/github/issues/thatguyblaze/pc-care" alt="Issues"> </a> </p>
-
+<br>
+<h1>PC CARE</h1>
+<h3>(Computer Assistance & Repair Engine)</h3>
+<br>
 </div>
 
-<!-- PROJECT DEMO -->
+<h4 align="center">A modern, open-source command-line utility for gamers and power users to clean, repair, and optimize their Windows PC.</h4>
 
-Note You can add a screenshot or GIF of the application in action here.
+<p align="center">
+<!-- BADGES -->
+<a href="https://www.python.org/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/python-3.7%2B-blue.svg" alt="Python Version">
+</a>
+<a href="https://www.google.com/search?q=https://github.com/YOUR_USERNAME/pc-care/blob/main/LICENSE">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+</a>
+<a href="https://www.google.com/search?q=https://github.com/YOUR_USERNAME/pc-care/issues">
+<img src="https://www.google.com/search?q=https://img.shields.io/github/issues/YOUR_USERNAME/pc-care" alt="Open Issues">
+</a>
+<a href="https://www.google.com/search?q=https://github.com/YOUR_USERNAME/pc-care/graphs/contributors">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/contributions-welcome-brightgreen.svg%3Fstyle%3Dflat" alt="Contributions Welcome">
+</a>
+</p>
+
+<p align="center">
+<a href="#-key-features">Key Features</a> •
+<a href="#-how-to-use">How To Use</a> •
+<a href="#-contributing">Contributing</a> •
+<a href="#-license">License</a>
+</p>
+
+Note
+You can add a screenshot or GIF of the application in action here to showcase its functionality.
 
 ![PC CARE Demo](./docs/demo.gif)
 
-📖 About The Project
-PC CARE was built to provide a simple, powerful, and transparent solution for Windows PC maintenance. Commercial PC cleaning software can often be bloated, expensive, or untrustworthy. This project brings the most effective and widely-accepted system maintenance tasks into a single, easy-to-use script that follows professional software design principles.
-
-The entire application is architected using modern Object-Oriented Programming (OOP) to ensure it is stable, maintainable, and easily expandable.
-
 ✨ Key Features
-🧹 General Cleaning: Safely removes temporary system and user files to free up disk space.
+Live Cleaning & Repair
 
-🛠️ System Repair & Optimization:
+Instantly run powerful cleaning and repair commands directly from a simple menu.
 
-SFC Scan: Scans and repairs corrupted or missing protected system files.
+Gamer Focused
 
-Ultimate Performance: Activates the hidden Windows power plan for maximum performance.
+Includes specific, community-approved fixes for popular games to resolve common issues.
 
-Flush DNS: Resolves internet connectivity issues by clearing the DNS cache.
+Ultimate Performance Mode
 
-🎮 Game Specific Fixes:
+Activates the hidden Windows power plan for maximum performance in demanding applications.
 
-Targeted, community-approved fixes for popular games like Helldivers 2 to resolve common issues.
+System Information
 
-💻 System Information: Generates a quick, detailed report of your hardware (CPU, RAM, GPU, OS).
+Quickly generates a detailed report of your hardware (CPU, RAM, GPU, OS).
 
-🔒 Safe & Secure: Built with administrator privilege checks and user confirmations for sensitive operations.
+Safe & Transparent
 
-🚀 Getting Started
-Follow these steps to get a local copy up and running.
+No hidden processes. The tool only performs actions you select, with confirmations for major changes.
 
-Prerequisites
-Python 3.7 or newer
+Cross platform
 
-Windows 10 or 11
+Built with Python, ready to run on Windows, macOS, and Linux (though optimized for Windows).
 
-Installation
-Clone the repository:
+🚀 How To Use
+To clone and run this application, you'll need Git and Python installed on your computer. From your command line:
 
-git clone [https://github.com/thatguyblaze/pc-care.git](https://github.com/thatguyblaze/pc-care.git)
+# Clone this repository
+$ git clone [https://github.com/YOUR_USERNAME/pc-care.git](https://github.com/YOUR_USERNAME/pc-care.git)
 
+# Go into the repository
+$ cd pc-care
 
-Navigate to the project directory:
+# Install dependencies
+$ pip install -r requirements.txt
 
-cd pc-care
-
-
-Install the required dependencies:
-
-pip install -r requirements.txt
-
-
-Run the application (it will self-elevate to request administrator privileges):
-
-python pc_care.py
-
+# Run the app
+$ python pc_care.py
 
 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
@@ -80,3 +82,7 @@ Please see CONTRIBUTING.md for our guidelines on how to get involved.
 
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
+
+<p align="center">
+Built with ❤️ for the gaming and power user community.
+</p>
