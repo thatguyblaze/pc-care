@@ -9,7 +9,6 @@
 </pre>
   <h1>PC CARE</h1>
   <h3>(Computer Assistance & Repair Engine)</h3>
-  <br>
 </div>
 <h4 align="center">A modern, open-source utility for gamers and power users to clean, repair, and optimize their Windows PC.</h4>
 
